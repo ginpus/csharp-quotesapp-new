@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-quotesapp-new", "csharp-quotesapp-new\csharp-quotesapp-new.csproj", "{BD856FB8-DCEC-49C3-920D-FFE3C13BBF22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{B7E6492C-307D-46B3-8535-3F7CDB79B512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD856FB8-DCEC-49C3-920D-FFE3C13BBF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD856FB8-DCEC-49C3-920D-FFE3C13BBF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD856FB8-DCEC-49C3-920D-FFE3C13BBF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD856FB8-DCEC-49C3-920D-FFE3C13BBF22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E6492C-307D-46B3-8535-3F7CDB79B512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E6492C-307D-46B3-8535-3F7CDB79B512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E6492C-307D-46B3-8535-3F7CDB79B512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E6492C-307D-46B3-8535-3F7CDB79B512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8728949C-7C65-42A6-81EF-5D705E068775}
+	EndGlobalSection
+EndGlobal
